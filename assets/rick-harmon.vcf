@@ -2,7 +2,7 @@ BEGIN:VCARD
 VERSION:3.0
 N:Harmon;Rick;;;
 FN:Rick Harmon
-ORG:The Suburban Group Mortgage Bankers
+ORG:The Suburban Group;Mortgage Bankers
 TEL;TYPE=WORK,VOICE:+18007792552
 TEL;TYPE=WORK,FAX:+17145722611
 EMAIL;TYPE=WORK,INTERNET:Rharmon@closeprobate.com
